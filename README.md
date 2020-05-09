@@ -1,2 +1,2 @@
 # curved_grader
-Inserts a test_score file to compute the average, mean, median,  etc.
+The program allows for a test score file to be inserted and read. In return, the mean, median, standard deviation, minimum, maximum, most common grade, and the number of letter grades are computed and printed to the screen.
